@@ -48,6 +48,29 @@ Ki'aui - Men/Women
 ### Honorifics
 Kise - A man/woman, who is out of the conversation, is the same age or older than you, and who you are informal with
 
+### Adjective
+Hono - Good
+
+### Adjective Stem
+Hono - Good
+
+### Repatition
+Honohono - Very good
+
+### Comparative
+Ai hono - Better than
+
+### Superlative
+Ei hono - Best
+
+### Number
+I'ao - Two
+
+### Ordinal
+Naui'ao - Second
+
+### Fraction
+Ivei'ao - Half
 
 
 
