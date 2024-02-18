@@ -19,6 +19,15 @@ Ki tahikano - He does not see
 To uli tahi - I am seen
 
 ### Reflective
+Uve tahi todoto to - I see myself
+
+### Gerundives
+Touro eu tahi - I must/need to see
+
+### Switch Reference
+Tahi to Kayo, hiaena'i amaho - I am Caio, I like food
+
+
 
 
 
