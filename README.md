@@ -2,9 +2,11 @@
 Ti'iwo Syntax Tree
 
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+flowchart TD
+    Sen[Sentence] 
+    Sen--> QW(Question Word)
+    Sen--> Vb(Verb)
+    Sen--> Ob(Object)
+    Sen--> Sub(Subject)
+
 ```
