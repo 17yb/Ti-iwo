@@ -25,7 +25,7 @@ Uve tahi todoto to - I see myself
 Touro eu tahi - I must/need to see
 
 ### Switch Reference
-Tahi to Kayo, hiaena'i amaho - I am Caio, I like food
+Tahi Kayo to, hiaena'i amaho - I am Caio, I like food
 
 
 
