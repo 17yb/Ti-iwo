@@ -7,7 +7,7 @@ flowchart TD
     Sen--> QW(Question Word)
     Sen--> Vb(Verb)
     Sen--> Ob(Object)
-    Sen--> Sub(Subject)
+    Sen--> Sb(Subject)
     Vb--> Verb(Verb)
     Vb--> AdM(Adverbs/Modifiers)
     Verb--> Im(Imperative)
